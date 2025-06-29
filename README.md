@@ -1,10 +1,5 @@
 # ifcqselect Blender Addon
 
-> **Project folder:** `ifcqselect`
-
-> **Known Limitation:**
-> The plugin currently parses and exposes only one IFC quantity per object for quick selection. This means that if your selection does not work as expected, you should try different quantity types in the selection dropdown. Only the parsed quantity will be available for filtering and selection for each object. For example, if two quantity types (such as GrossArea and NetArea) have the same value for an object, only one of them will be available for selection, so only that parameter will work. This is a current limitation and may affect workflows where multiple quantities are needed. Future updates may address this limitation by allowing multiple quantities to be parsed and selected per object.
-
 ## Overview
 
 **ifcqselect** is a Blender addon for BIM-centric selection and quantity extraction from IFC files. It enables users to:
@@ -63,3 +58,7 @@ If you see a version number and no error, IfcOpenShell is installed correctly.
 - This addon uses IfcOpenShell (LGPL) as a dependency. See: https://ifcopenshell.org/
 
 For licensing inquiries, support, or to report issues, please contact tankshield via GitHub at https://github.com/tankshield. You may send a direct message or open an issue on the repository. 
+
+---
+
+Known Limitation: The plugin currently parses and exposes only one IFC quantity per object for quick selection. This means that if your selection does not work as expected, you should try different quantity types in the selection dropdown. Only the parsed quantity will be available for filtering and selection for each object. For example, if two quantity types (such as GrossArea and NetArea) have the same value for an object, only one of them will be available for selection, so only that parameter will work. This is a current limitation and may affect workflows where multiple quantities are needed. Future updates may address this limitation by allowing multiple quantities to be parsed and selected per object. 
