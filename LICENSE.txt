@@ -1,0 +1,63 @@
+END USER LICENSE AGREEMENT (EULA) FOR IFCQSELECT BLENDER ADDON
+
+Copyright (c) 2025 tankshield. All rights reserved.
+
+IMPORTANT: PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE INSTALLING OR USING THE IFCQSELECT BLENDER ADDON ("SOFTWARE"). BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL, COPY, OR USE THE SOFTWARE.
+
+1. DEFINITIONS
+- "Software" refers to the ifcqselect Blender Addon, all associated files, documentation, updates, and any copies thereof.
+- "You" or "User" refers to the individual or entity installing or using the Software.
+- "tankshield" refers to the copyright holder and licensor of the Software.
+
+2. LICENSE GRANT
+Subject to your full compliance with this EULA, tankshield grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use one (1) copy of the Software solely for your personal, non-commercial, and internal business purposes. All other rights are expressly reserved by tankshield.
+
+3. RESTRICTIONS
+You may NOT, under any circumstances:
+- Distribute, share, publish, sublicense, sell, rent, lease, lend, or otherwise make the Software or any part thereof available to any third party, whether for commercial or non-commercial purposes, without the express prior written consent of tankshield.
+- Modify, adapt, translate, create derivative works of, or otherwise alter the Software or any part thereof.
+- Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying ideas, algorithms, or structure of the Software, except to the extent expressly permitted by applicable law, and then only with prior written notice to tankshield.
+- Use the Software for any commercial purpose, including but not limited to providing services to third parties, without a separate commercial license from tankshield.
+- Remove, obscure, or alter any proprietary notices, labels, or marks on the Software.
+- Use the Software in any manner that violates any applicable law, regulation, or third-party right.
+- Circumvent, disable, or otherwise interfere with security-related features of the Software.
+- Use the Software in any manner that could damage, disable, overburden, or impair the Software or interfere with any other party's use of the Software.
+
+4. OWNERSHIP AND INTELLECTUAL PROPERTY
+The Software is licensed, not sold. All rights, title, and interest in and to the Software, including all intellectual property rights, remain exclusively with tankshield. You acquire no ownership or other interest in the Software except for the limited license granted herein. All trademarks, service marks, and trade names are the property of their respective owners.
+
+5. UPDATES AND SUPPORT
+tankshield may, but is not obligated to, provide updates, upgrades, or support for the Software. Any updates provided will be subject to the terms of this EULA unless accompanied by a separate license.
+
+6. OPEN SOURCE COMPONENTS
+The IFC unit detection helper functions included in this Software are open-source and dual-licensed under the MIT and LGPL licenses for compliance and interoperability. This Software also uses IfcOpenShell (LGPL) as a dependency. See: https://ifcopenshell.org/
+You must comply with the terms of these open-source licenses when using those components.
+
+7. TERMINATION
+This EULA is effective until terminated. Your rights under this EULA will terminate automatically and immediately without notice if you fail to comply with any provision of this EULA. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession or control. tankshield reserves the right to enforce its rights to the fullest extent of the law.
+
+8. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY TANKSHIELD OR ITS AUTHORIZED REPRESENTATIVES SHALL CREATE A WARRANTY. YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK.
+
+9. LIMITATION OF LIABILITY
+IN NO EVENT SHALL TANKSHIELD BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF DATA) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF TANKSHIELD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL TANKSHIELD'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE, IF ANY.
+
+10. INDEMNIFICATION
+You agree to indemnify, defend, and hold harmless tankshield and its affiliates, officers, agents, employees, and licensors from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from your violation of this EULA or your use of the Software.
+
+11. EXPORT RESTRICTIONS
+You may not use or otherwise export or re-export the Software except as authorized by United States law and the laws of the jurisdiction in which the Software was obtained. In particular, but without limitation, the Software may not be exported or re-exported (a) into any U.S.-embargoed countries or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person's List or Entity List.
+
+12. GOVERNING LAW AND JURISDICTION
+This EULA shall be governed by and construed in accordance with the laws of the jurisdiction specified by tankshield, without regard to its conflict of law principles. Any dispute arising out of or relating to this EULA or the Software shall be subject to the exclusive jurisdiction of the courts specified by tankshield.
+
+13. SEVERABILITY
+If any provision of this EULA is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+14. ENTIRE AGREEMENT
+This EULA constitutes the entire agreement between you and tankshield regarding the Software and supersedes all prior or contemporaneous understandings regarding such subject matter. Any waiver of any provision of this EULA will be effective only if in writing and signed by tankshield.
+
+15. CONTACT
+For licensing inquiries, support, or to report violations, contact tankshield via GitHub at https://github.com/tankshield. You may send a direct message or open an issue on the repository.
+
+BY INSTALLING, COPYING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS EULA. 
