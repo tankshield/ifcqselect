@@ -1,4 +1,12 @@
-# ifcqselect Blender Addon
+# IFC Quick Select Blender Addon
+
+This addon is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
+
+This addon is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
 
 ## Overview
 
@@ -52,13 +60,16 @@ If you see a version number and no error, IfcOpenShell is installed correctly.
    - With an object selected, all extracted IFC quantities are shown in the panel.
    - In Edit Mode, the area of selected faces is displayed for manual inspection.
 
-## License
-- The core code of ifcqselect is **proprietary** (c) 2025 tankshield. All rights reserved.
-- The IFC unit detection helpers are open-source (MIT/LGPL) for compliance.
-- This addon uses IfcOpenShell (LGPL) as a dependency. See: https://ifcopenshell.org/
+## License and User Rights
+- This addon is licensed under the GNU General Public License v2 (GPLv2) or later.
+- You are free to use, modify, and redistribute this addon, provided you comply with the GPL.
+- All source code is available and must remain open under the GPL.
 
-For licensing inquiries, support, or to report issues, please contact tankshield via GitHub at https://github.com/tankshield. You may send a direct message or open an issue on the repository. 
+## Blender Addon Policy Compliance
+- This addon is fully compliant with Blender's addon policy, which requires all addons using the Blender Python API to be GPL-licensed (GPLv2 or later).
 
 ---
+
+For questions or contributions, contact tankshield.
 
 Known Limitation: The plugin currently parses and exposes only one IFC quantity per object for quick selection. This means that if your selection does not work as expected, you should try different quantity types in the selection dropdown. Only the parsed quantity will be available for filtering and selection for each object. For example, if two quantity types (such as GrossArea and NetArea) have the same value for an object, only one of them will be available for selection, so only that parameter will work. This is a current limitation and may affect workflows where multiple quantities are needed. Future updates may address this limitation by allowing multiple quantities to be parsed and selected per object. 
