@@ -71,5 +71,7 @@ If you see a version number and no error, IfcOpenShell is installed correctly.
 ---
 
 For questions or contributions, contact tankshield.
+This code was completely written using [Cursor](https://www.cursor.so/).
+
 
 Known Limitation: The plugin currently parses and exposes only one IFC quantity per object for quick selection. This means that if your selection does not work as expected, you should try different quantity types in the selection dropdown. Only the parsed quantity will be available for filtering and selection for each object. For example, if two quantity types (such as GrossArea and NetArea) have the same value for an object, only one of them will be available for selection, so only that parameter will work. This is a current limitation and may affect workflows where multiple quantities are needed. Future updates may address this limitation by allowing multiple quantities to be parsed and selected per object. 
